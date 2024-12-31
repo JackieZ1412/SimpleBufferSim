@@ -1,0 +1,3 @@
+/home/zya/zya/work/USTC-Advance-Database-System/src/CMakeFiles/buffersim.dir
+/home/zya/zya/work/USTC-Advance-Database-System/src/CMakeFiles/edit_cache.dir
+/home/zya/zya/work/USTC-Advance-Database-System/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -w -MMD -MP CMakeFiles/buffersim.dir/manager/buffer_manager.cpp.o CMakeFiles/buffersim.dir/manager/disk_manager.cpp.o CMakeFiles/buffersim.dir/buffer_simulator.cpp.o -o buffersim 
