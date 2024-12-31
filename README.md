@@ -1,1 +1,2 @@
-# USTC-Advance-Database-System
+# SimpileBufferSim
+The coursework of Advanced DBMS class.
